@@ -8,7 +8,5 @@ class Person {
   String get firstName => _firstName;
   String get lastName => _lastName;
 
-  void show() {
-    print('Name: $_firstName $_lastName');
-  }
+  void show() {}
 }
